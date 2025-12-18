@@ -1,0 +1,7 @@
+{
+  "name": "SnapIdea - AI Screenshot Manager",
+  "description": "Turn your screenshots into actionable ideas and to-do lists using AI analysis. Never lose a great idea buried in your photo gallery again.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
